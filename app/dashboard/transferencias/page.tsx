@@ -212,7 +212,7 @@ export default function TransferenciasPage() {
                         </div>
                         <div>
                           <p className="text-sm font-medium">Email</p>
-                          <p className="text-xs text-muted-foreground">joao.silva@email.com</p>
+                          <p className="text-xs text-muted-foreground">ayron@email.com</p>
                         </div>
                       </div>
                       <Button variant="ghost" size="icon">
